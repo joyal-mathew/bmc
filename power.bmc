@@ -1,0 +1,22 @@
+input to a
+input to b
+
+set c to a
+
+sub 1 from b
+
+while true b do
+ sub 1 from b
+
+ set d to a
+ set e to 0
+
+ while true d do
+  sub 1 from d
+  add c to e
+ loop
+
+ set c to e
+loop
+
+outn from c
